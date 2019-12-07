@@ -3874,4 +3874,6 @@
   <java-symbol type="string" name="service_not_subscribed" />
   <java-symbol type="string" name="multi_conn_to_same_pdn_not_allowed" />
 
+  <!-- Whether device supports variable refresh rate -->
+  <java-symbol type="bool" name="config_hasVariableRefreshRate" />
 </resources>

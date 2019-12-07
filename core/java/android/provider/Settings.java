@@ -6755,6 +6755,12 @@ public final class Settings {
          */
         public static final String QS_DATAUSAGE = "qs_datausage";
 
+	/**
+	 * Refresh Rate Setting for Supported Devices
+         * @hide
+         */
+        public static final String REFRESH_RATE_SETTING = "refresh_rate_setting";
+
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
